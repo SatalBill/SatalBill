@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satalbill" alt="satalbill" /></a> </p>
 
-- 🔭 I’m currently working on [Full-Stack & Web3 development field](https://market.kryptomon.co)
+- 🔭 I’m currently working on Full-Stack & Web3 development field
 
 - 👯 I’m looking to collaborate on **web3 related field**
 
@@ -13,9 +13,9 @@
 
 - 👨‍💻 Some of my projects are available at [https://leemin.vercel.app](https://leemin.vercel.app)
 
-- 📫 How to reach me **jsandy.business@proton.me**
+- 📫 How to reach me **cryptoleemin@gmail.com**
 
-- 📄 Know about my experiences [https://jsandy.vercel.app/About](https://jsandy.vercel.app/About)
+- 📄 Know about my experiences [https://leemin.vercel.app/About](https://leemin.vercel.app/About)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
