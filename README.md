@@ -11,7 +11,7 @@
 
 - 🤝 My Area of Interest's are **web/app development, developing any project from scratch**
 
-- 👨‍💻 All of my projects are available at [https://jsandy.vercel.app](https://jsandy.vercel.app)
+- 👨‍💻 Some of my projects are available at [https://leemin.vercel.app](https://leemin.vercel.app)
 
 - 📫 How to reach me **jsandy.business@proton.me**
 
