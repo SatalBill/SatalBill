@@ -11,11 +11,6 @@
 
 - 🤝 My Area of Interest's are **web/app development, developing any project from scratch**
 
-- 👨‍💻 Some of my projects are available at [https://leemin.vercel.app](https://leemin.vercel.app)
-
-- 📫 How to reach me **cryptoleemin@gmail.com**
-
-- 📄 Know about my experiences [https://leemin.vercel.app/About](https://leemin.vercel.app/About)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
