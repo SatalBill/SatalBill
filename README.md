@@ -15,6 +15,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/PINTO#3778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PINTO#3778" height="30" width="40" /></a>
+PINTO #3778
+</p>
+<p align="left">
+<a href="https://t.me/cryptodev999" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/01/Telegram-icon-on-transparent-background-PNG.png" alt="PINTO#3778" height="30" width="40" /></a>
+  @cryptodev999
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
