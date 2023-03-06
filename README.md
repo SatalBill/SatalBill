@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm SatalBill.</h1>
+<h1 align="center">👋, Welcome to my Github profile.</h1>
 <h3 align="center">A passionate Full-Stack & Web3 developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satalbill&label=Profile%20views&color=0e75b6&style=flat" alt="satalbill" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satalbill" alt="satalbill" /></a> </p>
-
-- 🔭 I’m currently working on Full-Stack & Web3 development field
-
-- 👯 I’m looking to collaborate on **web3 related field**
-
-- 🤝 My Area of Interest's are **web/app development, developing any project from scratch**
-
+<ul>
+  <li> 🔭 Experienced full stack developer with 8 years of experience, focusing on blockchain frontend technology.</li>
+  <li> 👯 Product-focused developer who loves to take responsibility across the entire project and technical stacks.</li>
+  <li> 🤝 My Area of Interest's are **web/app development, developing any project from scratch**</li>
+  <li> Strong problem-solving skills and ability to work well in a team environment.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
